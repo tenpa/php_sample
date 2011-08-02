@@ -1,6 +1,6 @@
 <?php
 
-echo "hello, men";
-echo "thanks,men";
+echo "hello, man";
+echo "thanks,man";
 
 ?>
